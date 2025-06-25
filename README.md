@@ -1,7 +1,7 @@
-# Weather Report PDF Generator
+# ☁️ Weather Report PDF Generator
 
 ## Description
-This project fetches real-time weather data for a given city using the OpenWeatherMap API and generates a PDF weather report using the FPDF library.
+A Python project the fetches real-time weather data for a given city using **OpenWeatherMap API** and generates a **PDF weather report** using the **FPDF** library.
 
 ## How to Run
 1. Install required libraries:
@@ -15,6 +15,9 @@ This project fetches real-time weather data for a given city using the OpenWeath
 4. A PDF file like Chennai_weather.pdf will be created in the folder.
 
 ## Acknowledgements
-- OpenWeatherMap API
-- FPDF for Python
+- 🌐 OpenWeatherMap API
+- 📝 FPDF for Python
 
+## Author
+Jeevan Kumar Ugandhar
+CSE AIML
